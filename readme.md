@@ -6,7 +6,9 @@
 
 # Instruçoes de compilação:
   Comandos para compilar e executar o projeto:
-- Abra o repósitório na pasta Jogo_Truco
+- Abra a pasta Jogo_Truco/Lib e abra um terminal no local:
+  - . stlb.sh, para gerar a biblioteca estática libcarteado.a
+- Abra o terminal na pasta Jogo_Truco
   - $ qmake
   - $ make
   - $ ./Jogo_Truco
